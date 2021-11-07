@@ -45,7 +45,7 @@ window.setWindowTitle('Memo Card')
 btn_OK = QPushButton('Ответить') # кнопка ответа
 lb_Question = QLabel('Какой национальности не существует?') # текст вопроса
 RadioGroupBox = QGroupBox("Варианты ответов")
-rbtn_1 = QRadioButton('Энцы')
+
 rbtn_2 = QRadioButton('Чулымцы')
 rbtn_3 = QRadioButton("Алеуты")
 rbtn_4 = QRadioButton('Смурфы')
